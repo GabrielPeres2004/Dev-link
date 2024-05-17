@@ -1,0 +1,4 @@
+html.dark .ph-moon ,
+html:not(.dark) .ph-sun{
+    display: none;
+}
